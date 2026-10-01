@@ -1,0 +1,2627 @@
+[
+  {
+    "id": "画蛇添足",
+    "simplified": "画蛇添足",
+    "traditional": "畫蛇添足",
+    "pinyin": [
+      "huà",
+      "shé",
+      "tiān",
+      "zú"
+    ],
+    "gloss": [
+      "draw",
+      "snake",
+      "add",
+      "feet"
+    ],
+    "meaning": "An extra touch ruins what was already finished.",
+    "exampleZh": "这段解释已经清楚了，再加一句就是画蛇添足。",
+    "exampleEn": "The explanation was already clear. One more sentence would draw feet on the snake.",
+    "story": "In a Chu contest, the first person to finish drawing a snake won wine. He added feet, and lost the cup."
+  },
+  {
+    "id": "守株待兔",
+    "simplified": "守株待兔",
+    "traditional": "守株待兔",
+    "pinyin": [
+      "shǒu",
+      "zhū",
+      "dài",
+      "tù"
+    ],
+    "gloss": [
+      "guard",
+      "stump",
+      "await",
+      "rabbit"
+    ],
+    "meaning": "Waiting for luck to repeat itself instead of doing the work.",
+    "exampleZh": "他不投简历，只守株待兔，等着旧同事来拉他。",
+    "exampleEn": "He sent no applications. He just guarded the stump, waiting for an old colleague to call.",
+    "story": "A farmer in Song once caught a rabbit that ran into a stump. He then abandoned his field and waited for another."
+  },
+  {
+    "id": "亡羊补牢",
+    "simplified": "亡羊补牢",
+    "traditional": "亡羊補牢",
+    "pinyin": [
+      "wáng",
+      "yáng",
+      "bǔ",
+      "láo"
+    ],
+    "gloss": [
+      "lost",
+      "sheep",
+      "mend",
+      "pen"
+    ],
+    "meaning": "Fixing the problem after a loss still prevents the next one.",
+    "exampleZh": "密码泄露了，亡羊补牢，他马上改掉了所有账号。",
+    "exampleEn": "After the password leaked he mended the pen: he changed every account.",
+    "story": "A shepherd lost sheep through a hole in the pen. The advice was to mend it before more ran off."
+  },
+  {
+    "id": "掩耳盗铃",
+    "simplified": "掩耳盗铃",
+    "traditional": "掩耳盜鈴",
+    "pinyin": [
+      "yǎn",
+      "ěr",
+      "dào",
+      "líng"
+    ],
+    "gloss": [
+      "cover",
+      "ears",
+      "steal",
+      "bell"
+    ],
+    "meaning": "Hiding the truth from yourself and thinking no one else will notice.",
+    "exampleZh": "删掉提醒并不能掩耳盗铃，账单还在。",
+    "exampleEn": "Deleting the reminder does not cover your ears. The bill is still there.",
+    "story": "A thief covered his own ears while stealing a bell, sure that if he could not hear it, neither could anyone else."
+  },
+  {
+    "id": "井底之蛙",
+    "simplified": "井底之蛙",
+    "traditional": "井底之蛙",
+    "pinyin": [
+      "jǐng",
+      "dǐ",
+      "zhī",
+      "wā"
+    ],
+    "gloss": [
+      "well",
+      "bottom",
+      "of",
+      "frog"
+    ],
+    "meaning": "Someone who mistakes a narrow view for the whole world.",
+    "exampleZh": "只看一个小区群，就评论全国，真是井底之蛙。",
+    "exampleEn": "Judging the whole country from one neighborhood chat is a frog at the bottom of a well.",
+    "story": "Zhuangzi's frog lives in a ruined well and cannot imagine the sea."
+  },
+  {
+    "id": "对牛弹琴",
+    "simplified": "对牛弹琴",
+    "traditional": "對牛彈琴",
+    "pinyin": [
+      "duì",
+      "niú",
+      "tán",
+      "qín"
+    ],
+    "gloss": [
+      "for",
+      "ox",
+      "play",
+      "qin"
+    ],
+    "meaning": "Offering a fine point to someone who will not take it in.",
+    "exampleZh": "跟他讲节奏，简直是对牛弹琴。",
+    "exampleEn": "Talking to him about pacing was playing the qin to an ox.",
+    "story": "Gongming Yi played the qin for an ox. The ox kept grazing."
+  },
+  {
+    "id": "狐假虎威",
+    "simplified": "狐假虎威",
+    "traditional": "狐假虎威",
+    "pinyin": [
+      "hú",
+      "jiǎ",
+      "hǔ",
+      "wēi"
+    ],
+    "gloss": [
+      "fox",
+      "borrow",
+      "tiger",
+      "awe"
+    ],
+    "meaning": "Bullying others with borrowed authority.",
+    "exampleZh": "他狐假虎威，一张口就是老板的名字。",
+    "exampleEn": "He borrows the tiger's awe and opens every sentence with the boss's name.",
+    "story": "A fox walked in front of a tiger. The animals fled the tiger, and the fox claimed they feared him."
+  },
+  {
+    "id": "杯弓蛇影",
+    "simplified": "杯弓蛇影",
+    "traditional": "杯弓蛇影",
+    "pinyin": [
+      "bēi",
+      "gōng",
+      "shé",
+      "yǐng"
+    ],
+    "gloss": [
+      "cup",
+      "bow",
+      "snake",
+      "shadow"
+    ],
+    "meaning": "Scaring yourself with a shadow you mistook for danger.",
+    "exampleZh": "体检还没出，他就杯弓蛇影，觉都睡不着。",
+    "exampleEn": "The results were not even back, and he was already losing sleep over a bow in the cup.",
+    "story": "A guest saw a bow's reflection in his wine and thought it was a snake. He fell ill until the host showed him the bow."
+  },
+  {
+    "id": "塞翁失马",
+    "simplified": "塞翁失马",
+    "traditional": "塞翁失馬",
+    "pinyin": [
+      "sài",
+      "wēng",
+      "shī",
+      "mǎ"
+    ],
+    "gloss": [
+      "frontier",
+      "old man",
+      "lose",
+      "horse"
+    ],
+    "meaning": "A loss that may turn out to be luck, or luck that may turn sour.",
+    "exampleZh": "没赶上那班飞机，塞翁失马，他倒躲开了延误。",
+    "exampleEn": "Missing the flight was the old man losing his horse. He also missed the delay.",
+    "story": "A frontier old man lost his horse. It returned with a finer one. His son rode it, fell, and broke a leg, which later kept him out of the draft."
+  },
+  {
+    "id": "刻舟求剑",
+    "simplified": "刻舟求剑",
+    "traditional": "刻舟求劍",
+    "pinyin": [
+      "kè",
+      "zhōu",
+      "qiú",
+      "jiàn"
+    ],
+    "gloss": [
+      "mark",
+      "boat",
+      "seek",
+      "sword"
+    ],
+    "meaning": "Searching by an old mark after the situation has moved.",
+    "exampleZh": "地图还是三年前的，这样找店是刻舟求剑。",
+    "exampleEn": "Looking for the shop on a three-year-old map is marking the boat to find the sword.",
+    "story": "A man of Chu dropped his sword from a boat and notched the gunwale. He looked for the sword later where the notch was."
+  },
+  {
+    "id": "自相矛盾",
+    "simplified": "自相矛盾",
+    "traditional": "自相矛盾",
+    "pinyin": [
+      "zì",
+      "xiāng",
+      "máo",
+      "dùn"
+    ],
+    "gloss": [
+      "self",
+      "mutual",
+      "spear",
+      "shield"
+    ],
+    "meaning": "Two of your own claims that cannot both be true.",
+    "exampleZh": "你说全程保密，又把截图发到群里，这是自相矛盾。",
+    "exampleEn": "You promised secrecy and then posted the screenshot. The spear and the shield cannot both stand.",
+    "story": "A seller cried that his spear pierced any shield and his shield stopped any spear. Someone asked him to test them on each other."
+  },
+  {
+    "id": "滥竽充数",
+    "simplified": "滥竽充数",
+    "traditional": "濫竽充數",
+    "pinyin": [
+      "làn",
+      "yú",
+      "chōng",
+      "shù"
+    ],
+    "gloss": [
+      "sham",
+      "pipes",
+      "fill",
+      "count"
+    ],
+    "meaning": "Holding a place without the skill the place requires.",
+    "exampleZh": "合唱里我只会张嘴，纯属滥竽充数。",
+    "exampleEn": "In the chorus I only mouth the words. I am padding the number of pipes.",
+    "story": "Nanguo could not play the yu. He stood in King Xuan's ensemble until the next king asked each player for a solo."
+  },
+  {
+    "id": "买椟还珠",
+    "simplified": "买椟还珠",
+    "traditional": "買櫝還珠",
+    "pinyin": [
+      "mǎi",
+      "dú",
+      "huán",
+      "zhū"
+    ],
+    "gloss": [
+      "buy",
+      "box",
+      "return",
+      "pearl"
+    ],
+    "meaning": "Keeping the pretty wrapping and giving back the thing of value.",
+    "exampleZh": "他记住了封面，把论点买椟还珠地放下了。",
+    "exampleEn": "He kept the cover and handed the argument back with the pearl.",
+    "story": "A Chu merchant sold a pearl in a scented box. The buyer paid for the box and returned the pearl."
+  },
+  {
+    "id": "邯郸学步",
+    "simplified": "邯郸学步",
+    "traditional": "邯鄲學步",
+    "pinyin": [
+      "hán",
+      "dān",
+      "xué",
+      "bù"
+    ],
+    "gloss": [
+      "Handan",
+      "learn",
+      "the",
+      "gait"
+    ],
+    "meaning": "Copying someone so hard that you lose your own way of walking.",
+    "exampleZh": "模仿那位主持人的停顿，他邯郸学步，自己的节奏也没了。",
+    "exampleEn": "Copying the host's pauses, he forgot his own pace and crawled home from Handan.",
+    "story": "A man from Shouling went to learn the Handan walk. He never mastered it, and he could no longer walk as he used to."
+  },
+  {
+    "id": "东施效颦",
+    "simplified": "东施效颦",
+    "traditional": "東施效顰",
+    "pinyin": [
+      "dōng",
+      "shī",
+      "xiào",
+      "pín"
+    ],
+    "gloss": [
+      "Dongshi",
+      "copy",
+      "the",
+      "frown"
+    ],
+    "meaning": "Imitating someone's charm and reproducing only the awkward part.",
+    "exampleZh": "她学人家叹气，东施效颦，同事反而更尴尬。",
+    "exampleEn": "She copied the sigh. The frown without the beauty only made the room awkward.",
+    "story": "Xishi looked graceful even with a frown. Dongshi copied the frown and people shut their doors."
+  },
+  {
+    "id": "叶公好龙",
+    "simplified": "叶公好龙",
+    "traditional": "葉公好龍",
+    "pinyin": [
+      "yè",
+      "gōng",
+      "hào",
+      "lóng"
+    ],
+    "gloss": [
+      "Lord Ye",
+      "loves",
+      "the",
+      "dragon"
+    ],
+    "meaning": "Claiming to love a thing and panicking when it actually shows up.",
+    "exampleZh": "他天天说欢迎反馈，真有人提意见就叶公好龙。",
+    "exampleEn": "He says he wants feedback, then flees the dragon the moment it arrives.",
+    "story": "Lord Ye covered his house with dragons. When a real dragon came to the window, he ran."
+  },
+  {
+    "id": "愚公移山",
+    "simplified": "愚公移山",
+    "traditional": "愚公移山",
+    "pinyin": [
+      "yú",
+      "gōng",
+      "yí",
+      "shān"
+    ],
+    "gloss": [
+      "foolish",
+      "old man",
+      "moves",
+      "mountains"
+    ],
+    "meaning": "Keeping at a huge task because the work can outlast one person.",
+    "exampleZh": "这堆旧数据他愚公移山，一周清掉一类。",
+    "exampleEn": "He moved the mountain one category a week until the old data was gone.",
+    "story": "The foolish old man started digging away two mountains. He said his sons and grandsons would keep digging. Heaven moved the mountains."
+  },
+  {
+    "id": "精卫填海",
+    "simplified": "精卫填海",
+    "traditional": "精衛填海",
+    "pinyin": [
+      "jīng",
+      "wèi",
+      "tián",
+      "hǎi"
+    ],
+    "gloss": [
+      "Jingwei",
+      "fills",
+      "the",
+      "sea"
+    ],
+    "meaning": "A small person carrying stones against a harm that does not end.",
+    "exampleZh": "她每天记一笔错账，精卫填海，月份终于对上了。",
+    "exampleEn": "She logged one bad entry a day, carrying twigs to the sea, until the month balanced.",
+    "story": "Jingwei, the daughter of the Flame Emperor, drowned in the East Sea and returned as a bird, dropping twigs and pebbles to fill it."
+  },
+  {
+    "id": "卧薪尝胆",
+    "simplified": "卧薪尝胆",
+    "traditional": "臥薪嘗膽",
+    "pinyin": [
+      "wò",
+      "xīn",
+      "cháng",
+      "dǎn"
+    ],
+    "gloss": [
+      "lie",
+      "on thorns",
+      "taste",
+      "gall"
+    ],
+    "meaning": "Living with a reminder of defeat until you have repaired it.",
+    "exampleZh": "创业失败后他卧薪尝胆，把账本贴在床头。",
+    "exampleEn": "After the company failed he slept on firewood: the ledger stayed by the bed.",
+    "story": "Goujian of Yue, beaten by Wu, kept gall nearby and tasted it so he would not forget the defeat."
+  },
+  {
+    "id": "破釜沉舟",
+    "simplified": "破釜沉舟",
+    "traditional": "破釜沉舟",
+    "pinyin": [
+      "pò",
+      "fǔ",
+      "chén",
+      "zhōu"
+    ],
+    "gloss": [
+      "smash",
+      "pots",
+      "sink",
+      "boats"
+    ],
+    "meaning": "Cutting off retreat so the only move left is through.",
+    "exampleZh": "她破釜沉舟，辞了职去考那一张执照。",
+    "exampleEn": "She smashed the pots and sank the boats: she quit and sat the license exam.",
+    "story": "At the battle of Julu, Xiang Yu sank the boats and broke the cooking pots so the army had to fight."
+  },
+  {
+    "id": "背水一战",
+    "simplified": "背水一战",
+    "traditional": "背水一戰",
+    "pinyin": [
+      "bèi",
+      "shuǐ",
+      "yī",
+      "zhàn"
+    ],
+    "gloss": [
+      "back",
+      "to water",
+      "one",
+      "fight"
+    ],
+    "meaning": "Fighting with no reserve because there is nowhere to step back.",
+    "exampleZh": "库存只够一周，这场发布是背水一战。",
+    "exampleEn": "With a week of stock left, the launch was a battle with the river behind them.",
+    "story": "Han Xin lined his troops up with the river at their backs. With no retreat, they stood and won."
+  },
+  {
+    "id": "纸上谈兵",
+    "simplified": "纸上谈兵",
+    "traditional": "紙上談兵",
+    "pinyin": [
+      "zhǐ",
+      "shàng",
+      "tán",
+      "bīng"
+    ],
+    "gloss": [
+      "on paper",
+      "talk",
+      "of",
+      "war"
+    ],
+    "meaning": "A plan that has never met the ground.",
+    "exampleZh": "没下过厨房就排菜单，是纸上谈兵。",
+    "exampleEn": "A menu from someone who has never cooked is war on paper.",
+    "story": "Zhao Kuo could recite his father's tactics. In command he lost the battle of Changping."
+  },
+  {
+    "id": "负荆请罪",
+    "simplified": "负荆请罪",
+    "traditional": "負荊請罪",
+    "pinyin": [
+      "fù",
+      "jīng",
+      "qǐng",
+      "zuì"
+    ],
+    "gloss": [
+      "carry",
+      "thorns",
+      "beg",
+      "pardon"
+    ],
+    "meaning": "Going to the person you wronged and asking, without an excuse.",
+    "exampleZh": "他拿着改好的稿去负荆请罪，没有解释借口。",
+    "exampleEn": "He brought the rewritten draft and asked pardon, thorns and all, with no excuse.",
+    "story": "Lian Po bared his shoulder, carried thorns, and went to Lin Xiangru to admit he had been wrong."
+  },
+  {
+    "id": "完璧归赵",
+    "simplified": "完璧归赵",
+    "traditional": "完璧歸趙",
+    "pinyin": [
+      "wán",
+      "bì",
+      "guī",
+      "zhào"
+    ],
+    "gloss": [
+      "intact",
+      "jade",
+      "returns",
+      "to Zhao"
+    ],
+    "meaning": "Returning something whole to the person it belongs to.",
+    "exampleZh": "借来的镜头他完璧归赵，连盒子都擦过。",
+    "exampleEn": "He returned the borrowed lens intact, box wiped clean.",
+    "story": "Lin Xiangru took the He jade to Qin, saw that Qin would not pay the cities, and got the jade back to Zhao."
+  },
+  {
+    "id": "价值连城",
+    "simplified": "价值连城",
+    "traditional": "價值連城",
+    "pinyin": [
+      "jià",
+      "zhí",
+      "lián",
+      "chéng"
+    ],
+    "gloss": [
+      "worth",
+      "joins",
+      "the",
+      "cities"
+    ],
+    "meaning": "So valuable that a price in money sounds beside the point.",
+    "exampleZh": "那本有批注的旧书，对他价值连城。",
+    "exampleEn": "That marked-up old book was worth several cities to him.",
+    "story": "The He jade of Bian was offered for fifteen cities. People still say a treasure joins cities."
+  },
+  {
+    "id": "毛遂自荐",
+    "simplified": "毛遂自荐",
+    "traditional": "毛遂自薦",
+    "pinyin": [
+      "máo",
+      "suì",
+      "zì",
+      "jiàn"
+    ],
+    "gloss": [
+      "Mao",
+      "Sui",
+      "offers",
+      "himself"
+    ],
+    "meaning": "Stepping forward for a job no one thought to offer you.",
+    "exampleZh": "组里缺记录，她毛遂自荐，把纪要接了过去。",
+    "exampleEn": "The group needed notes. She recommended herself and took them.",
+    "story": "Mao Sui, an unnoticed retainer, asked Lord Pingyuan to take him to Chu. There he made the alliance."
+  },
+  {
+    "id": "三顾茅庐",
+    "simplified": "三顾茅庐",
+    "traditional": "三顧茅廬",
+    "pinyin": [
+      "sān",
+      "gù",
+      "máo",
+      "lú"
+    ],
+    "gloss": [
+      "three",
+      "visits",
+      "thatch",
+      "hut"
+    ],
+    "meaning": "Asking more than once, in person, because you actually want that person.",
+    "exampleZh": "为了请那位老师傅，他三顾茅庐，周末跑了三次车间。",
+    "exampleEn": "He wanted that craftsman badly enough to visit the workshop three weekends running.",
+    "story": "Liu Bei went three times to the thatched hut before Zhuge Liang agreed to come out."
+  },
+  {
+    "id": "望梅止渴",
+    "simplified": "望梅止渴",
+    "traditional": "望梅止渴",
+    "pinyin": [
+      "wàng",
+      "méi",
+      "zhǐ",
+      "kě"
+    ],
+    "gloss": [
+      "see",
+      "plums",
+      "stop",
+      "thirst"
+    ],
+    "meaning": "A promised relief that keeps people going, and is still only a promise.",
+    "exampleZh": "他说下月发奖金，大家望梅止渴，先把班加完。",
+    "exampleEn": "The bonus he promised for next month was plums on the horizon. They finished the overtime.",
+    "story": "Cao Cao's thirsty army marched on when he said plum trees stood ahead."
+  },
+  {
+    "id": "草船借箭",
+    "simplified": "草船借箭",
+    "traditional": "草船借箭",
+    "pinyin": [
+      "cǎo",
+      "chuán",
+      "jiè",
+      "jiàn"
+    ],
+    "gloss": [
+      "straw",
+      "boats",
+      "borrow",
+      "arrows"
+    ],
+    "meaning": "Getting what you lack from the other side's own effort.",
+    "exampleZh": "竞品的差评成了草船借箭，他们照着改了一版。",
+    "exampleEn": "The rival's bad reviews became borrowed arrows. They shipped a fix from them.",
+    "story": "In the Romance of the Three Kingdoms, Zhuge Liang sends straw boats into the fog and returns with the arrows Cao Cao's camp had fired."
+  },
+  {
+    "id": "乐不思蜀",
+    "simplified": "乐不思蜀",
+    "traditional": "樂不思蜀",
+    "pinyin": [
+      "lè",
+      "bù",
+      "sī",
+      "shǔ"
+    ],
+    "gloss": [
+      "happy",
+      "forgets",
+      "the",
+      "Shu"
+    ],
+    "meaning": "Settling into comfort and forgetting what you left unfinished.",
+    "exampleZh": "在新城市乐不思蜀，他连老家的课也不远程上了。",
+    "exampleEn": "Happy in the new city, he no longer dialed into the class back home.",
+    "story": "After Shu fell, Liu Shan lived in comfort in Luoyang and said he did not miss his old kingdom."
+  },
+  {
+    "id": "鞠躬尽瘁",
+    "simplified": "鞠躬尽瘁",
+    "traditional": "鞠躬盡瘁",
+    "pinyin": [
+      "jū",
+      "gōng",
+      "jìn",
+      "cuì"
+    ],
+    "gloss": [
+      "bow",
+      "low",
+      "spend",
+      "oneself"
+    ],
+    "meaning": "Working for a duty until there is nothing left to spare.",
+    "exampleZh": "母亲住院那些天，她鞠躬尽瘁，班也没误。",
+    "exampleEn": "Through the days her mother was in hospital she spent herself and still made her shifts.",
+    "story": "The line is attached to Zhuge Liang's later memorial: to bend to the task and spend yourself until death."
+  },
+  {
+    "id": "指鹿为马",
+    "simplified": "指鹿为马",
+    "traditional": "指鹿為馬",
+    "pinyin": [
+      "zhǐ",
+      "lù",
+      "wéi",
+      "mǎ"
+    ],
+    "gloss": [
+      "call",
+      "a deer",
+      "a",
+      "horse"
+    ],
+    "meaning": "Insisting on a falsehood because power, not eyesight, is the point.",
+    "exampleZh": "报表明明是红的，他指鹿为马，说这叫增长。",
+    "exampleEn": "The report was red. He called the deer a horse and named it growth.",
+    "story": "Zhao Gao brought a deer to the Qin court and called it a horse, to see who would agree."
+  },
+  {
+    "id": "四面楚歌",
+    "simplified": "四面楚歌",
+    "traditional": "四面楚歌",
+    "pinyin": [
+      "sì",
+      "miàn",
+      "chǔ",
+      "gē"
+    ],
+    "gloss": [
+      "four",
+      "sides",
+      "Chu",
+      "songs"
+    ],
+    "meaning": "Hemmed in, with every sign saying your own side is gone.",
+    "exampleZh": "客诉、退款、差评四面楚歌，店长周末守在店里。",
+    "exampleEn": "Complaints, refunds, and bad reviews sang from all four sides. The manager stayed through the weekend.",
+    "story": "At Gaixia, Xiang Yu heard Chu songs on every side and believed his land was already lost."
+  },
+  {
+    "id": "入木三分",
+    "simplified": "入木三分",
+    "traditional": "入木三分",
+    "pinyin": [
+      "rù",
+      "mù",
+      "sān",
+      "fēn"
+    ],
+    "gloss": [
+      "enter",
+      "the wood",
+      "three",
+      "tenths"
+    ],
+    "meaning": "A remark or a stroke that cuts deeper than the surface.",
+    "exampleZh": "她那句评语入木三分，把问题说死了。",
+    "exampleEn": "Her note cut three tenths into the wood and named the real problem.",
+    "story": "People said Wang Xizhi's brushwork soaked three tenths of an inch into the wood."
+  },
+  {
+    "id": "胸有成竹",
+    "simplified": "胸有成竹",
+    "traditional": "胸有成竹",
+    "pinyin": [
+      "xiōng",
+      "yǒu",
+      "chéng",
+      "zhú"
+    ],
+    "gloss": [
+      "chest",
+      "holds",
+      "the",
+      "bamboo"
+    ],
+    "meaning": "Starting only once the whole shape is already in mind.",
+    "exampleZh": "开场前他胸有成竹，提纲就四行。",
+    "exampleEn": "Before he began, the bamboo was already in his chest. The outline was four lines.",
+    "story": "Wen Tong painted bamboo so often that Su Shi said the finished plant was in his chest before the brush moved."
+  },
+  {
+    "id": "画龙点睛",
+    "simplified": "画龙点睛",
+    "traditional": "畫龍點睛",
+    "pinyin": [
+      "huà",
+      "lóng",
+      "diǎn",
+      "jīng"
+    ],
+    "gloss": [
+      "draw",
+      "dragon",
+      "dot",
+      "the eye"
+    ],
+    "meaning": "The last small stroke that makes the whole thing live.",
+    "exampleZh": "标题是画龙点睛，她改了三个字，海报就站住了。",
+    "exampleEn": "The title dotted the eye. Three new characters and the poster held.",
+    "story": "Zhang Sengyou painted dragons in a temple and left the eyes blank. When he added them, the story says the dragons broke the wall and left."
+  },
+  {
+    "id": "洛阳纸贵",
+    "simplified": "洛阳纸贵",
+    "traditional": "洛陽紙貴",
+    "pinyin": [
+      "luò",
+      "yáng",
+      "zhǐ",
+      "guì"
+    ],
+    "gloss": [
+      "Luoyang",
+      "paper",
+      "turns",
+      "dear"
+    ],
+    "meaning": "A piece of writing so wanted that copies run out.",
+    "exampleZh": "那篇说明书洛阳纸贵，打印店排队到门口。",
+    "exampleEn": "The manual made paper dear in Luoyang. The print shop's queue reached the door.",
+    "story": "After Zuo Si's Three Capitals rhapsody circulated, families in Luoyang copied it until paper rose in price."
+  },
+  {
+    "id": "江郎才尽",
+    "simplified": "江郎才尽",
+    "traditional": "江郎才盡",
+    "pinyin": [
+      "jiāng",
+      "láng",
+      "cái",
+      "jìn"
+    ],
+    "gloss": [
+      "Jiang Lang",
+      "talent",
+      "runs",
+      "out"
+    ],
+    "meaning": "The ease of writing or inventing that used to come, and no longer does.",
+    "exampleZh": "连载写到四十回，他江郎才尽，更新停了两周。",
+    "exampleEn": "By chapter forty his talent had run out. The serial paused for two weeks.",
+    "story": "Jiang Yan dreamed that a man took back the five-colored brush he had lent him. After that his writing thinned."
+  },
+  {
+    "id": "悬梁刺股",
+    "simplified": "悬梁刺股",
+    "traditional": "懸樑刺股",
+    "pinyin": [
+      "xuán",
+      "liáng",
+      "cì",
+      "gǔ"
+    ],
+    "gloss": [
+      "tie",
+      "to a beam",
+      "prick",
+      "the thigh"
+    ],
+    "meaning": "Keeping yourself at study by force when sleep comes.",
+    "exampleZh": "考证那个月他悬梁刺股，闹钟设到凌晨。",
+    "exampleEn": "The month of the exam he tied his hair to the beam. The alarm was set for after midnight.",
+    "story": "Sun Jing tied his hair to a beam so nodding would wake him. Su Qin pricked his thigh to keep reading."
+  },
+  {
+    "id": "凿壁偷光",
+    "simplified": "凿壁偷光",
+    "traditional": "鑿壁偷光",
+    "pinyin": [
+      "záo",
+      "bì",
+      "tōu",
+      "guāng"
+    ],
+    "gloss": [
+      "chisel",
+      "the wall",
+      "steal",
+      "light"
+    ],
+    "meaning": "Studying by whatever light you can borrow.",
+    "exampleZh": "宿舍熄灯后他凿壁偷光，靠走廊的缝读完一章。",
+    "exampleEn": "After lights-out he stole a strip of corridor light and finished the chapter.",
+    "story": "Kuang Heng's family was too poor for lamp oil. He chiseled a hole toward the neighbor's light and read by it."
+  },
+  {
+    "id": "程门立雪",
+    "simplified": "程门立雪",
+    "traditional": "程門立雪",
+    "pinyin": [
+      "chéng",
+      "mén",
+      "lì",
+      "xuě"
+    ],
+    "gloss": [
+      "Cheng's",
+      "gate",
+      "stand",
+      "in snow"
+    ],
+    "meaning": "Waiting on a teacher with your pride set down.",
+    "exampleZh": "她程门立雪，在办公室外等了四十分钟只为问一个字。",
+    "exampleEn": "She stood in the snow at the gate: forty minutes outside the office for one character.",
+    "story": "Yang Shi and You Zuo went to see Cheng Yi, found him asleep, and waited in the snow until he woke."
+  },
+  {
+    "id": "一鼓作气",
+    "simplified": "一鼓作气",
+    "traditional": "一鼓作氣",
+    "pinyin": [
+      "yī",
+      "gǔ",
+      "zuò",
+      "qì"
+    ],
+    "gloss": [
+      "one",
+      "drum",
+      "raises",
+      "spirit"
+    ],
+    "meaning": "Finishing in the first push, before the energy drops.",
+    "exampleZh": "搬家她一鼓作气，中午前箱子就封完了。",
+    "exampleEn": "She moved house on the first drumbeat and had the boxes sealed before noon.",
+    "story": "Cao Gui told the duke of Lu to strike when the enemy's third drum had spent their courage, and their own first drum still held."
+  },
+  {
+    "id": "闻鸡起舞",
+    "simplified": "闻鸡起舞",
+    "traditional": "聞雞起舞",
+    "pinyin": [
+      "wén",
+      "jī",
+      "qǐ",
+      "wǔ"
+    ],
+    "gloss": [
+      "hear",
+      "the rooster",
+      "rise",
+      "and drill"
+    ],
+    "meaning": "Getting up at the first chance and practicing.",
+    "exampleZh": "他闻鸡起舞，六点就在楼道里背单词。",
+    "exampleEn": "He rose with the rooster and drilled vocabulary in the stairwell at six.",
+    "story": "Zu Ti and Liu Kun rose to practice swordplay when they heard the rooster, unwilling to wait for dawn."
+  },
+  {
+    "id": "韦编三绝",
+    "simplified": "韦编三绝",
+    "traditional": "韋編三絕",
+    "pinyin": [
+      "wéi",
+      "biān",
+      "sān",
+      "jué"
+    ],
+    "gloss": [
+      "leather",
+      "binding",
+      "thrice",
+      "snapped"
+    ],
+    "meaning": "Reading one book until the copy itself wears out.",
+    "exampleZh": "这本语法他韦编三绝，封面用胶带补了三次。",
+    "exampleEn": "He snapped the binding three times. Tape held the grammar book together.",
+    "story": "Confucius read the Book of Changes so often that the leather thongs of the binding broke three times."
+  },
+  {
+    "id": "班门弄斧",
+    "simplified": "班门弄斧",
+    "traditional": "班門弄斧",
+    "pinyin": [
+      "bān",
+      "mén",
+      "nòng",
+      "fǔ"
+    ],
+    "gloss": [
+      "at Lu Ban's",
+      "gate",
+      "swing",
+      "an axe"
+    ],
+    "meaning": "Showing off a craft in front of the person who masters it.",
+    "exampleZh": "在总厨面前谈火候，我这是班门弄斧。",
+    "exampleEn": "Talking heat control in front of the head chef was swinging an axe at Lu Ban's gate.",
+    "story": "Lu Ban is the patron of carpenters. Swinging an axe at his gate is performing for the master."
+  },
+  {
+    "id": "黔驴技穷",
+    "simplified": "黔驴技穷",
+    "traditional": "黔驢技窮",
+    "pinyin": [
+      "qián",
+      "lǘ",
+      "jì",
+      "qióng"
+    ],
+    "gloss": [
+      "Qian",
+      "donkey",
+      "tricks",
+      "end"
+    ],
+    "meaning": "The last trick has been used, and it was a small one.",
+    "exampleZh": "促销只剩打折，黔驴技穷，顾客也不再停留。",
+    "exampleEn": "The only trick left was a discount. The donkey was out of skills, and shoppers walked on.",
+    "story": "Liu Zongyuan's donkey, brought to Guizhou, had only a kick. The tiger learned it, and ate him."
+  },
+  {
+    "id": "守口如瓶",
+    "simplified": "守口如瓶",
+    "traditional": "守口如瓶",
+    "pinyin": [
+      "shǒu",
+      "kǒu",
+      "rú",
+      "píng"
+    ],
+    "gloss": [
+      "keep",
+      "the mouth",
+      "like",
+      "a bottle"
+    ],
+    "meaning": "Refusing to let a secret out.",
+    "exampleZh": "客户名单她守口如瓶，连同组的人也不告诉。",
+    "exampleEn": "She kept the client list like a corked bottle, even from her own team.",
+    "story": "The mouth stays shut the way a bottle stays corked."
+  },
+  {
+    "id": "一诺千金",
+    "simplified": "一诺千金",
+    "traditional": "一諾千金",
+    "pinyin": [
+      "yī",
+      "nuò",
+      "qiān",
+      "jīn"
+    ],
+    "gloss": [
+      "one",
+      "promise",
+      "a thousand",
+      "gold"
+    ],
+    "meaning": "A promise you can treat as already paid.",
+    "exampleZh": "他说周五交货就周五交货，一诺千金。",
+    "exampleEn": "He said Friday and it was Friday. One promise, a thousand in gold.",
+    "story": "People in Chu said a promise from Ji Bu was worth a thousand pieces of gold."
+  },
+  {
+    "id": "口蜜腹剑",
+    "simplified": "口蜜腹剑",
+    "traditional": "口蜜腹劍",
+    "pinyin": [
+      "kǒu",
+      "mì",
+      "fù",
+      "jiàn"
+    ],
+    "gloss": [
+      "mouth",
+      "of honey",
+      "belly",
+      "of swords"
+    ],
+    "meaning": "Warm words from a person who means harm.",
+    "exampleZh": "邮件写得很甜，会上他口蜜腹剑，把责任推了过来。",
+    "exampleEn": "The email was sweet. In the meeting the sword came out and the blame landed on her.",
+    "story": "People said of the Tang minister Li Linfu that his mouth was honey and his belly hid a sword."
+  },
+  {
+    "id": "笑里藏刀",
+    "simplified": "笑里藏刀",
+    "traditional": "笑裡藏刀",
+    "pinyin": [
+      "xiào",
+      "lǐ",
+      "cáng",
+      "dāo"
+    ],
+    "gloss": [
+      "in the smile",
+      "hides",
+      "a",
+      "knife"
+    ],
+    "meaning": "Kindness on the face and a cut prepared behind it.",
+    "exampleZh": "他笑里藏刀，先夸奖，再把她的方案撤了。",
+    "exampleEn": "He hid the knife in a compliment, then pulled her proposal.",
+    "story": "The Tang official Li Yifu smiled while he set people up. The knife sat behind the smile."
+  },
+  {
+    "id": "为虎作伥",
+    "simplified": "为虎作伥",
+    "traditional": "為虎作倀",
+    "pinyin": [
+      "wèi",
+      "hǔ",
+      "zuò",
+      "chāng"
+    ],
+    "gloss": [
+      "serve",
+      "the tiger",
+      "as",
+      "its ghost"
+    ],
+    "meaning": "Helping a harmful person do the next harm.",
+    "exampleZh": "他把同事的草稿交给抄袭的人，是为虎作伥。",
+    "exampleEn": "He handed a colleague's draft to the plagiarist and led the tiger to the next meal.",
+    "story": "A tiger's victim was said to become a chang ghost, walking ahead to lure the next person in."
+  },
+  {
+    "id": "助纣为虐",
+    "simplified": "助纣为虐",
+    "traditional": "助紂為虐",
+    "pinyin": [
+      "zhù",
+      "zhòu",
+      "wéi",
+      "nüè"
+    ],
+    "gloss": [
+      "aid",
+      "King Zhou",
+      "in",
+      "cruelty"
+    ],
+    "meaning": "Taking the side of a harm and making it worse.",
+    "exampleZh": "明知是骗局还帮着转账，就是助纣为虐。",
+    "exampleEn": "Forwarding the money after you know it is a scam aids the cruelty.",
+    "story": "King Zhou of Shang is the stock tyrant. To aid him is to help the cruelty along."
+  },
+  {
+    "id": "养虎遗患",
+    "simplified": "养虎遗患",
+    "traditional": "養虎遺患",
+    "pinyin": [
+      "yǎng",
+      "hǔ",
+      "yí",
+      "huàn"
+    ],
+    "gloss": [
+      "raise",
+      "a tiger",
+      "leave",
+      "a threat"
+    ],
+    "meaning": "Sparing a danger now that you will have to face later.",
+    "exampleZh": "漏洞先不修，是养虎遗患。",
+    "exampleEn": "Leaving the bug unfixed raises the tiger for later.",
+    "story": "When Xiang Yu was let away alive, an adviser called it raising a tiger that would return as a threat."
+  },
+  {
+    "id": "骑虎难下",
+    "simplified": "骑虎难下",
+    "traditional": "騎虎難下",
+    "pinyin": [
+      "qí",
+      "hǔ",
+      "nán",
+      "xià"
+    ],
+    "gloss": [
+      "ride",
+      "the tiger",
+      "hard",
+      "to dismount"
+    ],
+    "meaning": "Stuck in a course that is dangerous to continue and dangerous to quit.",
+    "exampleZh": "项目超预算，停也不是，骑虎难下。",
+    "exampleEn": "The project is over budget. Stopping is as bad as going on. The tiger is under them.",
+    "story": "Once you are on the tiger, getting down is the hard part."
+  },
+  {
+    "id": "唇亡齿寒",
+    "simplified": "唇亡齿寒",
+    "traditional": "唇亡齒寒",
+    "pinyin": [
+      "chún",
+      "wáng",
+      "chǐ",
+      "hán"
+    ],
+    "gloss": [
+      "lips",
+      "gone",
+      "teeth",
+      "cold"
+    ],
+    "meaning": "If the neighbor falls, you are next.",
+    "exampleZh": "对面店倒了，唇亡齿寒，这条街的人流也会少。",
+    "exampleEn": "If the shop across the street closes, the lips are gone and this street gets colder.",
+    "story": "Jin asked leave to march through Yu and attack Guo. An adviser said that when the lips are gone the teeth are cold. Yu let the army through, and fell after Guo."
+  },
+  {
+    "id": "同舟共济",
+    "simplified": "同舟共济",
+    "traditional": "同舟共濟",
+    "pinyin": [
+      "tóng",
+      "zhōu",
+      "gòng",
+      "jì"
+    ],
+    "gloss": [
+      "same",
+      "boat",
+      "cross",
+      "together"
+    ],
+    "meaning": "People in the same trouble helping each other out of it.",
+    "exampleZh": "停电那天整层楼同舟共济，共享一个热点。",
+    "exampleEn": "The day the power failed, the whole floor shared one hotspot and crossed in the same boat.",
+    "story": "In one boat, in a storm, strangers pull the same oar."
+  },
+  {
+    "id": "风雨同舟",
+    "simplified": "风雨同舟",
+    "traditional": "風雨同舟",
+    "pinyin": [
+      "fēng",
+      "yǔ",
+      "tóng",
+      "zhōu"
+    ],
+    "gloss": [
+      "wind",
+      "and rain",
+      "one",
+      "boat"
+    ],
+    "meaning": "Staying with someone through the bad weather, not only the calm.",
+    "exampleZh": "创业这三年他们风雨同舟，工资晚发也没散。",
+    "exampleEn": "For three years of the startup they stayed in the same boat. Late pay did not break them.",
+    "story": "Wind, rain, and one boat. The company is the point."
+  },
+  {
+    "id": "未雨绸缪",
+    "simplified": "未雨绸缪",
+    "traditional": "未雨綢繆",
+    "pinyin": [
+      "wèi",
+      "yǔ",
+      "chóu",
+      "móu"
+    ],
+    "gloss": [
+      "before",
+      "rain",
+      "bind",
+      "the nest"
+    ],
+    "meaning": "Preparing while the sky is still clear.",
+    "exampleZh": "台风还在海上，他就未雨绸缪，把花盆搬进门。",
+    "exampleEn": "The typhoon was still at sea. He bound the nest early and brought the pots inside.",
+    "story": "In the Book of Songs a bird binds its nest before the sky turns to rain."
+  },
+  {
+    "id": "临渴掘井",
+    "simplified": "临渴掘井",
+    "traditional": "臨渴掘井",
+    "pinyin": [
+      "lín",
+      "kě",
+      "jué",
+      "jǐng"
+    ],
+    "gloss": [
+      "when thirsty",
+      "dig",
+      "a",
+      "well"
+    ],
+    "meaning": "Starting the preparation at the moment you already needed it.",
+    "exampleZh": "演出当天借充电器，是临渴掘井。",
+    "exampleEn": "Borrowing a charger on the day of the show is digging the well while thirsty.",
+    "story": "Digging the well when you are already thirsty comes too late for this drink."
+  },
+  {
+    "id": "临阵磨枪",
+    "simplified": "临阵磨枪",
+    "traditional": "臨陣磨槍",
+    "pinyin": [
+      "lín",
+      "zhèn",
+      "mó",
+      "qiāng"
+    ],
+    "gloss": [
+      "at the line",
+      "polish",
+      "the",
+      "spear"
+    ],
+    "meaning": "Cramming the preparation into the last hour.",
+    "exampleZh": "演讲前一晚他临阵磨枪，幻灯片改到两点。",
+    "exampleEn": "The night before the talk he polished the spear. The slides moved until two.",
+    "story": "Sharpening the spear once the line is already formed."
+  },
+  {
+    "id": "曲突徙薪",
+    "simplified": "曲突徙薪",
+    "traditional": "曲突徙薪",
+    "pinyin": [
+      "qū",
+      "tū",
+      "xǐ",
+      "xīn"
+    ],
+    "gloss": [
+      "bend",
+      "the chimney",
+      "move",
+      "the wood"
+    ],
+    "meaning": "A plain precaution people ignore until the fire.",
+    "exampleZh": "他把插座从窗帘边挪开，曲突徙薪，没人当回事。",
+    "exampleEn": "He moved the socket away from the curtain. Nobody took the bent chimney seriously.",
+    "story": "A guest told a family to bend the chimney and shift the firewood. They laughed, the house burned, and they thanked the people who put the fire out, not the guest."
+  },
+  {
+    "id": "防患未然",
+    "simplified": "防患未然",
+    "traditional": "防患未然",
+    "pinyin": [
+      "fáng",
+      "huàn",
+      "wèi",
+      "rán"
+    ],
+    "gloss": [
+      "prevent",
+      "harm",
+      "before",
+      "it is"
+    ],
+    "meaning": "Stopping a likely harm before it starts.",
+    "exampleZh": "登山前检查扣具，是防患未然。",
+    "exampleEn": "Checking the carabiners before the climb prevents the harm while it is still nothing.",
+    "story": "Deal with the harm while it has not yet become a fact."
+  },
+  {
+    "id": "居安思危",
+    "simplified": "居安思危",
+    "traditional": "居安思危",
+    "pinyin": [
+      "jū",
+      "ān",
+      "sī",
+      "wēi"
+    ],
+    "gloss": [
+      "in safety",
+      "think",
+      "of",
+      "danger"
+    ],
+    "meaning": "Using a calm stretch to prepare for a bad one.",
+    "exampleZh": "账上有余钱时他居安思危，另存了三个月房租。",
+    "exampleEn": "While the account looked fine he thought of danger and set aside three months' rent.",
+    "story": "The Zuozhuan puts it as a rule for a state: in peace, think of peril."
+  },
+  {
+    "id": "有备无患",
+    "simplified": "有备无患",
+    "traditional": "有備無患",
+    "pinyin": [
+      "yǒu",
+      "bèi",
+      "wú",
+      "huàn"
+    ],
+    "gloss": [
+      "with",
+      "preparation",
+      "no",
+      "calamity"
+    ],
+    "meaning": "Trouble is smaller when the spare is already there.",
+    "exampleZh": "包里常年有创可贴，有备无患。",
+    "exampleEn": "A plaster lives in the bag. Preparation, and no small calamity.",
+    "story": "When the preparation is real, the calamity has less to bite."
+  },
+  {
+    "id": "雪中送炭",
+    "simplified": "雪中送炭",
+    "traditional": "雪中送炭",
+    "pinyin": [
+      "xuě",
+      "zhōng",
+      "sòng",
+      "tàn"
+    ],
+    "gloss": [
+      "in",
+      "snow",
+      "send",
+      "charcoal"
+    ],
+    "meaning": "Help that arrives when the need is sharp, not when things are already fine.",
+    "exampleZh": "失业那周朋友雪中送炭，把房租先垫上了。",
+    "exampleEn": "The week he lost the job a friend sent charcoal in the snow and covered the rent.",
+    "story": "Song Taizong is said to have sent charcoal to poor households in a snowstorm, fuel when the cold was already there."
+  },
+  {
+    "id": "锦上添花",
+    "simplified": "锦上添花",
+    "traditional": "錦上添花",
+    "pinyin": [
+      "jǐn",
+      "shàng",
+      "tiān",
+      "huā"
+    ],
+    "gloss": [
+      "on",
+      "brocade",
+      "add",
+      "flowers"
+    ],
+    "meaning": "Making a good thing a little finer, when it was not in trouble.",
+    "exampleZh": "菜已经很好，香菜只是锦上添花。",
+    "exampleEn": "The dish was already good. The coriander was flowers on brocade.",
+    "story": "Brocade does not need the flowers. They are welcome anyway."
+  },
+  {
+    "id": "落井下石",
+    "simplified": "落井下石",
+    "traditional": "落井下石",
+    "pinyin": [
+      "luò",
+      "jǐng",
+      "xià",
+      "shí"
+    ],
+    "gloss": [
+      "into",
+      "the well",
+      "throw",
+      "stones"
+    ],
+    "meaning": "Hitting a person who is already down.",
+    "exampleZh": "他刚被批评，同事又落井下石，把旧错翻出来。",
+    "exampleEn": "He had just been blamed. A colleague threw stones into the well and dug up an old mistake.",
+    "story": "Han Yu wrote of people who, seeing a man fall in a well, throw stones down after him."
+  },
+  {
+    "id": "趁火打劫",
+    "simplified": "趁火打劫",
+    "traditional": "趁火打劫",
+    "pinyin": [
+      "chèn",
+      "huǒ",
+      "dǎ",
+      "jié"
+    ],
+    "gloss": [
+      "seize",
+      "the fire",
+      "strike",
+      "and rob"
+    ],
+    "meaning": "Taking advantage of someone else's emergency.",
+    "exampleZh": "停电时有人趁火打劫，把货架上的东西拿走了。",
+    "exampleEn": "During the blackout someone robbed the house in the fire and cleared a shelf.",
+    "story": "A fire is the moment a looter chooses."
+  },
+  {
+    "id": "恩将仇报",
+    "simplified": "恩将仇报",
+    "traditional": "恩將仇報",
+    "pinyin": [
+      "ēn",
+      "jiāng",
+      "chóu",
+      "bào"
+    ],
+    "gloss": [
+      "kindness",
+      "repaid",
+      "with",
+      "hate"
+    ],
+    "meaning": "Turning on the person who helped you.",
+    "exampleZh": "是她介绍的工作，他转头恩将仇报，对外说她抢功。",
+    "exampleEn": "She had introduced him to the job. He repaid it by saying she stole the credit.",
+    "story": "The kindness is real, and the repayment is harm."
+  },
+  {
+    "id": "过河拆桥",
+    "simplified": "过河拆桥",
+    "traditional": "過河拆橋",
+    "pinyin": [
+      "guò",
+      "hé",
+      "chāi",
+      "qiáo"
+    ],
+    "gloss": [
+      "cross",
+      "the river",
+      "dismantle",
+      "the bridge"
+    ],
+    "meaning": "Dropping the person who got you across once you no longer need them.",
+    "exampleZh": "转正之后他过河拆桥，带他的人再约不到。",
+    "exampleEn": "After he was made permanent he dismantled the bridge. The person who trained him could not get a meeting.",
+    "story": "Once across, he tears the bridge down behind him."
+  },
+  {
+    "id": "忘恩负义",
+    "simplified": "忘恩负义",
+    "traditional": "忘恩負義",
+    "pinyin": [
+      "wàng",
+      "ēn",
+      "fù",
+      "yì"
+    ],
+    "gloss": [
+      "forget",
+      "the kindness",
+      "betray",
+      "the bond"
+    ],
+    "meaning": "Acting as if the help never happened.",
+    "exampleZh": "房东宽限过他两个月，他忘恩负义，走时还骂了一顿。",
+    "exampleEn": "The landlord had given him two extra months. He left cursing, as if the kindness had never happened.",
+    "story": "The kindness is forgotten and the bond is broken on purpose."
+  },
+  {
+    "id": "投桃报李",
+    "simplified": "投桃报李",
+    "traditional": "投桃報李",
+    "pinyin": [
+      "tóu",
+      "táo",
+      "bào",
+      "lǐ"
+    ],
+    "gloss": [
+      "toss",
+      "a peach",
+      "return",
+      "a plum"
+    ],
+    "meaning": "Answering a gift or a favor with one of your own.",
+    "exampleZh": "邻居帮她收了快递，她投桃报李，第二天带了汤过去。",
+    "exampleEn": "The neighbor took in her parcel. She returned the peach with soup the next day.",
+    "story": "In the Book of Songs, she throws me a peach and I answer with a plum."
+  },
+  {
+    "id": "结草衔环",
+    "simplified": "结草衔环",
+    "traditional": "結草銜環",
+    "pinyin": [
+      "jié",
+      "cǎo",
+      "xián",
+      "huán"
+    ],
+    "gloss": [
+      "tie",
+      "grass",
+      "bring",
+      "a ring"
+    ],
+    "meaning": "Repaying a kindness even when it is hard to repay.",
+    "exampleZh": "当年的助学金他结草衔环，现在匿名补给同所学校。",
+    "exampleEn": "He is still tying grass for that scholarship, sending money back to the same school without his name.",
+    "story": "Wei Ke spared a concubine his father had ordered buried, and a grass-knot tripped his enemy in battle. Yang Bao saved a yellow bird and later received jade rings in thanks."
+  },
+  {
+    "id": "爱屋及乌",
+    "simplified": "爱屋及乌",
+    "traditional": "愛屋及烏",
+    "pinyin": [
+      "ài",
+      "wū",
+      "jí",
+      "wū"
+    ],
+    "gloss": [
+      "love",
+      "the house",
+      "and the",
+      "crow"
+    ],
+    "meaning": "Liking even the odd bits of a thing because you like the thing.",
+    "exampleZh": "她爱屋及乌，连那家店难喝的咖啡也觉得亲切。",
+    "exampleEn": "She loves the house and its crow. Even the shop's bad coffee feels kindly.",
+    "story": "The old line says: if you love someone, the crow on their roof comes along with the love."
+  },
+  {
+    "id": "盲人摸象",
+    "simplified": "盲人摸象",
+    "traditional": "盲人摸象",
+    "pinyin": [
+      "máng",
+      "rén",
+      "mō",
+      "xiàng"
+    ],
+    "gloss": [
+      "blind",
+      "men",
+      "touch",
+      "the elephant"
+    ],
+    "meaning": "Each person holding one part and calling it the whole.",
+    "exampleZh": "只看完播率就判断节目，是盲人摸象。",
+    "exampleEn": "Judging the show by completion rate alone is touching one leg of the elephant.",
+    "story": "In the Nirvana Sutra, blind men touch an elephant. One says it is a wall, one a rope, one a pillar."
+  },
+  {
+    "id": "坐井观天",
+    "simplified": "坐井观天",
+    "traditional": "坐井觀天",
+    "pinyin": [
+      "zuò",
+      "jǐng",
+      "guān",
+      "tiān"
+    ],
+    "gloss": [
+      "sit",
+      "in a well",
+      "view",
+      "the sky"
+    ],
+    "meaning": "Judging the sky by the circle you can see from where you sit.",
+    "exampleZh": "只读一种报纸，坐井观天，还以为天下就这些事。",
+    "exampleEn": "One newspaper, and the sky is the size of the well mouth.",
+    "story": "Han Yu's frog in the well says the sky is no bigger than the hole above him."
+  },
+  {
+    "id": "夜郎自大",
+    "simplified": "夜郎自大",
+    "traditional": "夜郎自大",
+    "pinyin": [
+      "yè",
+      "láng",
+      "zì",
+      "dà"
+    ],
+    "gloss": [
+      "Yelang",
+      "thinks",
+      "itself",
+      "great"
+    ],
+    "meaning": "Pride that comes from never having seen a larger world.",
+    "exampleZh": "拿区赛冠军就夜郎自大，市赛还没开始。",
+    "exampleEn": "A district title, and already the king of Yelang. The city round has not started.",
+    "story": "The king of Yelang asked a Han envoy whether Han was larger than Yelang. He had no other measure."
+  },
+  {
+    "id": "螳臂当车",
+    "simplified": "螳臂当车",
+    "traditional": "螳臂當車",
+    "pinyin": [
+      "táng",
+      "bì",
+      "dāng",
+      "chē"
+    ],
+    "gloss": [
+      "mantis",
+      "arms",
+      "stop",
+      "the cart"
+    ],
+    "meaning": "Blocking a force you are too small to stop.",
+    "exampleZh": "一个人去拦那条新路，螳臂当车，工程照旧开工。",
+    "exampleEn": "One person stood in front of the new road. The cart did not stop.",
+    "story": "A mantis raised its arms against a chariot. Zhuangzi tells it as a warning about knowing your size."
+  },
+  {
+    "id": "蚍蜉撼树",
+    "simplified": "蚍蜉撼树",
+    "traditional": "蚍蜉撼樹",
+    "pinyin": [
+      "pí",
+      "fú",
+      "hàn",
+      "shù"
+    ],
+    "gloss": [
+      "ants",
+      "try to",
+      "shake",
+      "the tree"
+    ],
+    "meaning": "A tiny push against something that will not move.",
+    "exampleZh": "几条匿名评论想扳倒这家老店，蚍蜉撼树。",
+    "exampleEn": "A few anonymous comments against that old shop were ants at the tree.",
+    "story": "Han Yu wrote that ants shaking a great tree do not know their own strength, and waste it."
+  },
+  {
+    "id": "外强中干",
+    "simplified": "外强中干",
+    "traditional": "外強中乾",
+    "pinyin": [
+      "wài",
+      "qiáng",
+      "zhōng",
+      "gān"
+    ],
+    "gloss": [
+      "outside",
+      "strong",
+      "inside",
+      "empty"
+    ],
+    "meaning": "Looking sturdy and having nothing in reserve.",
+    "exampleZh": "店面装修很亮，账却外强中干，发不出这个月工资。",
+    "exampleEn": "The fit-out was bright. The books were dry inside, and wages stalled.",
+    "story": "In the Zuozhuan the horses of Jin look strong and are inwardly spent. They collapse when the fight lengthens."
+  },
+  {
+    "id": "色厉内荏",
+    "simplified": "色厉内荏",
+    "traditional": "色厲內荏",
+    "pinyin": [
+      "sè",
+      "lì",
+      "nèi",
+      "rěn"
+    ],
+    "gloss": [
+      "face",
+      "stern",
+      "inside",
+      "soft"
+    ],
+    "meaning": "A hard manner covering a fear of being challenged.",
+    "exampleZh": "他开会色厉内荏，一对一就改口。",
+    "exampleEn": "He was stern in the meeting and soft in private. One to one, he reversed himself.",
+    "story": "The Analects name the pattern: a severe face, and reeds within."
+  },
+  {
+    "id": "鱼目混珠",
+    "simplified": "鱼目混珠",
+    "traditional": "魚目混珠",
+    "pinyin": [
+      "yú",
+      "mù",
+      "hùn",
+      "zhū"
+    ],
+    "gloss": [
+      "fish",
+      "eyes",
+      "passed off",
+      "as pearls"
+    ],
+    "meaning": "A fake sitting in the place of the real thing.",
+    "exampleZh": "这批评论是鱼目混珠，句子是从别的店复制的。",
+    "exampleEn": "Those reviews are fish eyes among the pearls, copied from another shop.",
+    "story": "An eye from a fish can be slipped into a string of pearls if nobody looks closely."
+  },
+  {
+    "id": "名落孙山",
+    "simplified": "名落孙山",
+    "traditional": "名落孫山",
+    "pinyin": [
+      "míng",
+      "luò",
+      "sūn",
+      "shān"
+    ],
+    "gloss": [
+      "name",
+      "falls",
+      "behind",
+      "Sun Shan"
+    ],
+    "meaning": "Failing a list that other people made.",
+    "exampleZh": "面试名单公布，他名落孙山，下午就改了简历。",
+    "exampleEn": "The interview list went up without him. He was behind Sun Shan, and rewrote the résumé that afternoon.",
+    "story": "Sun Shan came last among the successful candidates. Asked about a neighbor's son, he said the boy sat just behind Sun Shan."
+  },
+  {
+    "id": "金榜题名",
+    "simplified": "金榜题名",
+    "traditional": "金榜題名",
+    "pinyin": [
+      "jīn",
+      "bǎng",
+      "tí",
+      "míng"
+    ],
+    "gloss": [
+      "gold",
+      "board",
+      "writes",
+      "the name"
+    ],
+    "meaning": "Getting onto the list you were working toward.",
+    "exampleZh": "执照下来那天她金榜题名，把通知贴在冰箱上。",
+    "exampleEn": "The day the license arrived her name was on the board. She taped the notice to the fridge.",
+    "story": "The golden board was where successful exam names were posted."
+  },
+  {
+    "id": "后来居上",
+    "simplified": "后来居上",
+    "traditional": "後來居上",
+    "pinyin": [
+      "hòu",
+      "lái",
+      "jū",
+      "shàng"
+    ],
+    "gloss": [
+      "later",
+      "arrivals",
+      "sit",
+      "above"
+    ],
+    "meaning": "Someone who started behind and is now ahead.",
+    "exampleZh": "她三月才入职，后来居上，这个季度单子比老员工多。",
+    "exampleEn": "She joined in March and now sits above. This quarter her orders passed the veterans.",
+    "story": "Ji An complained that later appointees were seated above him. The phrase stayed."
+  },
+  {
+    "id": "水滴石穿",
+    "simplified": "水滴石穿",
+    "traditional": "水滴石穿",
+    "pinyin": [
+      "shuǐ",
+      "dī",
+      "shí",
+      "chuān"
+    ],
+    "gloss": [
+      "water",
+      "drops",
+      "pierce",
+      "stone"
+    ],
+    "meaning": "A small repeated act that eventually goes through.",
+    "exampleZh": "每天十分钟，水滴石穿，一年后他能听下整段新闻。",
+    "exampleEn": "Ten minutes a day pierced the stone. After a year he could follow a whole news segment.",
+    "story": "Drops on one spot wear a hole in stone. The line is about staying with a small effort."
+  },
+  {
+    "id": "磨杵成针",
+    "simplified": "磨杵成针",
+    "traditional": "磨杵成針",
+    "pinyin": [
+      "mó",
+      "chǔ",
+      "chéng",
+      "zhēn"
+    ],
+    "gloss": [
+      "grind",
+      "the rod",
+      "into",
+      "a needle"
+    ],
+    "meaning": "Absurd patience that finishes a task everyone else would quit.",
+    "exampleZh": "发音他磨杵成针，同一个词录了两个月。",
+    "exampleEn": "He ground the rod into a needle, recording the same word for two months.",
+    "story": "A popular tale has the young Li Bai meet an old woman grinding an iron rod down into a needle."
+  },
+  {
+    "id": "熟能生巧",
+    "simplified": "熟能生巧",
+    "traditional": "熟能生巧",
+    "pinyin": [
+      "shú",
+      "néng",
+      "shēng",
+      "qiǎo"
+    ],
+    "gloss": [
+      "practice",
+      "grows",
+      "the",
+      "skill"
+    ],
+    "meaning": "Skill that arrives because the hands have done it many times.",
+    "exampleZh": "包饺子熟能生巧，第十个开始才像样子。",
+    "exampleEn": "Skill at folding dumplings arrived with practice. The tenth one finally looked right.",
+    "story": "An oil seller poured oil through a coin's square hole without wetting the coin, and told the watching archer that practice had done it."
+  },
+  {
+    "id": "游刃有余",
+    "simplified": "游刃有余",
+    "traditional": "遊刃有餘",
+    "pinyin": [
+      "yóu",
+      "rèn",
+      "yǒu",
+      "yú"
+    ],
+    "gloss": [
+      "the blade",
+      "moves",
+      "with",
+      "room"
+    ],
+    "meaning": "Doing hard work with space to spare because you know where to cut.",
+    "exampleZh": "同样的报表她游刃有余，别人还在对格子。",
+    "exampleEn": "She had room around the blade on the same report. Others were still hunting cells.",
+    "story": "Cook Ding tells Lord Wenhui that his blade finds the gaps in the joints, so after nineteen years it still cuts as if new."
+  },
+  {
+    "id": "运筹帷幄",
+    "simplified": "运筹帷幄",
+    "traditional": "運籌帷幄",
+    "pinyin": [
+      "yùn",
+      "chóu",
+      "wéi",
+      "wò"
+    ],
+    "gloss": [
+      "plan",
+      "counters",
+      "inside",
+      "the tent"
+    ],
+    "meaning": "Winning by the plan made before anyone goes out.",
+    "exampleZh": "比赛当天他几乎不说话，运筹帷幄的工作前一晚就做完了。",
+    "exampleEn": "On the day he barely spoke. The counters had been moved in the tent the night before.",
+    "story": "Zhang Liang is described as deciding victory from within the tent, a thousand li from the fight."
+  },
+  {
+    "id": "围魏救赵",
+    "simplified": "围魏救赵",
+    "traditional": "圍魏救趙",
+    "pinyin": [
+      "wéi",
+      "wèi",
+      "jiù",
+      "zhào"
+    ],
+    "gloss": [
+      "besiege",
+      "Wei",
+      "to save",
+      "Zhao"
+    ],
+    "meaning": "Relieving pressure by striking where the opponent had to turn back.",
+    "exampleZh": "服务器被打满时，他们围魏救赵，先切掉了那个爬虫的入口。",
+    "exampleEn": "When the server was full they saved Zhao by another gate: they closed the scraper first.",
+    "story": "Wei was besieging Zhao's capital. Sun Bin marched on Wei's own capital, and the siege lifted."
+  },
+  {
+    "id": "声东击西",
+    "simplified": "声东击西",
+    "traditional": "聲東擊西",
+    "pinyin": [
+      "shēng",
+      "dōng",
+      "jī",
+      "xī"
+    ],
+    "gloss": [
+      "noise",
+      "in the east",
+      "strike",
+      "in the west"
+    ],
+    "meaning": "Drawing attention one way and moving the other.",
+    "exampleZh": "促销海报贴在东门，声东击西，新品其实在二楼。",
+    "exampleEn": "The poster was on the east door. The new goods were on the second floor.",
+    "story": "Make a sound in the east. The strike is in the west."
+  },
+  {
+    "id": "调虎离山",
+    "simplified": "调虎离山",
+    "traditional": "調虎離山",
+    "pinyin": [
+      "diào",
+      "hǔ",
+      "lí",
+      "shān"
+    ],
+    "gloss": [
+      "lure",
+      "the tiger",
+      "off",
+      "the mountain"
+    ],
+    "meaning": "Drawing a strong opponent away from the place they are hard to beat.",
+    "exampleZh": "为了检修主线路，他们调虎离山，先把流量切到备用机。",
+    "exampleEn": "To repair the main line they lured the tiger off: traffic went to the spare first.",
+    "story": "The tiger is dangerous on its mountain. The plan is to move it."
+  },
+  {
+    "id": "欲擒故纵",
+    "simplified": "欲擒故纵",
+    "traditional": "欲擒故縱",
+    "pinyin": [
+      "yù",
+      "qín",
+      "gù",
+      "zòng"
+    ],
+    "gloss": [
+      "to catch",
+      "first",
+      "let",
+      "go"
+    ],
+    "meaning": "Loosening your grip so the other person comes the rest of the way.",
+    "exampleZh": "谈判里她欲擒故纵，先把价格让了一步，对方反而坐下来。",
+    "exampleEn": "She let the price go a step, meaning to catch it later. The other side sat down.",
+    "story": "One of the thirty-six stratagems: if you want to catch them, first leave them room to move."
+  },
+  {
+    "id": "出其不意",
+    "simplified": "出其不意",
+    "traditional": "出其不意",
+    "pinyin": [
+      "chū",
+      "qí",
+      "bù",
+      "yì"
+    ],
+    "gloss": [
+      "strike",
+      "where",
+      "not",
+      "expected"
+    ],
+    "meaning": "Moving at a time or place the other side did not prepare.",
+    "exampleZh": "她出其不意，周一早上就把方案递了上去。",
+    "exampleEn": "She turned it in Monday morning, where nobody was expecting it.",
+    "story": "Sunzi lists it beside attacking the undefended place: arrive where they are not prepared."
+  },
+  {
+    "id": "知己知彼",
+    "simplified": "知己知彼",
+    "traditional": "知己知彼",
+    "pinyin": [
+      "zhī",
+      "jǐ",
+      "zhī",
+      "bǐ"
+    ],
+    "gloss": [
+      "know",
+      "yourself",
+      "know",
+      "the other"
+    ],
+    "meaning": "A decision made after you can describe both sides plainly.",
+    "exampleZh": "报价前她知己知彼，把自己的成本和对方的预算都写在一张纸上。",
+    "exampleEn": "Before the quote she wrote her costs and their budget on one sheet.",
+    "story": "Sunzi says: know the other and know yourself, and in a hundred fights you are not in danger."
+  },
+  {
+    "id": "百折不挠",
+    "simplified": "百折不挠",
+    "traditional": "百折不撓",
+    "pinyin": [
+      "bǎi",
+      "zhé",
+      "bù",
+      "náo"
+    ],
+    "gloss": [
+      "a hundred",
+      "setbacks",
+      "do not",
+      "bend"
+    ],
+    "meaning": "Still going after repeated noes.",
+    "exampleZh": "投稿被退了八次，她百折不挠，第九次改投了别的栏目。",
+    "exampleEn": "Eight rejections did not bend her. The ninth draft went to a different section.",
+    "story": "A hundred bends, and the purpose does not flex."
+  },
+  {
+    "id": "锲而不舍",
+    "simplified": "锲而不舍",
+    "traditional": "鍥而不捨",
+    "pinyin": [
+      "qiè",
+      "ér",
+      "bù",
+      "shě"
+    ],
+    "gloss": [
+      "carve",
+      "and",
+      "do not",
+      "quit"
+    ],
+    "meaning": "Staying with one cut until the material gives.",
+    "exampleZh": "发音里的这个音他锲而不舍，每天对着录音改。",
+    "exampleEn": "He kept carving at that one sound, checking it against a recording every day.",
+    "story": "Xunzi says carving stops if you quit, and metal or stone gives way if you do not."
+  },
+  {
+    "id": "半途而废",
+    "simplified": "半途而废",
+    "traditional": "半途而廢",
+    "pinyin": [
+      "bàn",
+      "tú",
+      "ér",
+      "fèi"
+    ],
+    "gloss": [
+      "halfway",
+      "down the road",
+      "you",
+      "quit"
+    ],
+    "meaning": "Stopping a job you had already begun and could have finished.",
+    "exampleZh": "跑到三公里他半途而废，鞋带一松就回家了。",
+    "exampleEn": "At three kilometers he quit the road. A loose lace and he went home.",
+    "story": "The Book of Rites tells of a man who stopped building a mound halfway. One basket more would have finished it."
+  },
+  {
+    "id": "一曝十寒",
+    "simplified": "一曝十寒",
+    "traditional": "一曝十寒",
+    "pinyin": [
+      "yī",
+      "pù",
+      "shí",
+      "hán"
+    ],
+    "gloss": [
+      "one",
+      "day of sun",
+      "ten",
+      "of frost"
+    ],
+    "meaning": "A burst of effort followed by a long neglect.",
+    "exampleZh": "健身一曝十寒，办了卡只去了开学那周。",
+    "exampleEn": "The gym habit was one day of sun and ten of frost. He went the week he joined.",
+    "story": "Mencius says a plant will not grow on one day of sun and ten days of frost, however long you wish over it."
+  },
+  {
+    "id": "一心一意",
+    "simplified": "一心一意",
+    "traditional": "一心一意",
+    "pinyin": [
+      "yī",
+      "xīn",
+      "yī",
+      "yì"
+    ],
+    "gloss": [
+      "one",
+      "heart",
+      "one",
+      "mind"
+    ],
+    "meaning": "Doing this thing and not a second thing beside it.",
+    "exampleZh": "写作那两小时她一心一意，手机放在另一个房间。",
+    "exampleEn": "For those two hours she was one heart. The phone was in the other room.",
+    "story": "One heart and one intention. Nothing else is invited in."
+  },
+  {
+    "id": "废寝忘食",
+    "simplified": "废寝忘食",
+    "traditional": "廢寢忘食",
+    "pinyin": [
+      "fèi",
+      "qǐn",
+      "wàng",
+      "shí"
+    ],
+    "gloss": [
+      "skip",
+      "sleep",
+      "forget",
+      "meals"
+    ],
+    "meaning": "So deep in a task that meals and rest go past unnoticed.",
+    "exampleZh": "赶稿那周他废寝忘食，午饭常常是晚上热的。",
+    "exampleEn": "The week of the deadline he forgot meals. Lunch was often reheated at night.",
+    "story": "The Analects picture Confucius as the sort of person who forgets to eat when he is bent on a problem."
+  },
+  {
+    "id": "争分夺秒",
+    "simplified": "争分夺秒",
+    "traditional": "爭分奪秒",
+    "pinyin": [
+      "zhēng",
+      "fēn",
+      "duó",
+      "miǎo"
+    ],
+    "gloss": [
+      "fight",
+      "for minutes",
+      "seize",
+      "seconds"
+    ],
+    "meaning": "Treating the remaining time as something you have to win back.",
+    "exampleZh": "登机口要关了，他们争分夺秒，跑过连廊。",
+    "exampleEn": "The gate was closing. They fought for the minutes and ran the corridor.",
+    "story": "Minutes and seconds are the prize."
+  },
+  {
+    "id": "光阴似箭",
+    "simplified": "光阴似箭",
+    "traditional": "光陰似箭",
+    "pinyin": [
+      "guāng",
+      "yīn",
+      "sì",
+      "jiàn"
+    ],
+    "gloss": [
+      "time",
+      "flies",
+      "like",
+      "an arrow"
+    ],
+    "meaning": "Time gone faster than you budgeted for.",
+    "exampleZh": "孩子上学了，他才觉得光阴似箭，暑假短得看不见。",
+    "exampleEn": "Once the child started school, the summers were arrows. He could not see them pass.",
+    "story": "Light and shadow go like an arrow. The year does not wait to be spent carefully."
+  },
+  {
+    "id": "时不我待",
+    "simplified": "时不我待",
+    "traditional": "時不我待",
+    "pinyin": [
+      "shí",
+      "bù",
+      "wǒ",
+      "dài"
+    ],
+    "gloss": [
+      "time",
+      "will not",
+      "wait",
+      "for me"
+    ],
+    "meaning": "The moment is here, and delaying is a decision.",
+    "exampleZh": "报名今晚截止，时不我待，她把表格发出去了。",
+    "exampleEn": "The form closed tonight. Time would not wait, so she sent it.",
+    "story": "The phrase is a push: the time will not pause because you are not ready."
+  },
+  {
+    "id": "马到成功",
+    "simplified": "马到成功",
+    "traditional": "馬到成功",
+    "pinyin": [
+      "mǎ",
+      "dào",
+      "chéng",
+      "gōng"
+    ],
+    "gloss": [
+      "the horse",
+      "arrives",
+      "and",
+      "succeeds"
+    ],
+    "meaning": "A wish that the work goes right from the first step.",
+    "exampleZh": "店开张那天邻居写了马到成功，贴在玻璃上。",
+    "exampleEn": "On opening day a neighbor wrote 'success as the horse arrives' and taped it to the glass.",
+    "story": "It is a send-off: may success be there when you arrive."
+  },
+  {
+    "id": "一鸣惊人",
+    "simplified": "一鸣惊人",
+    "traditional": "一鳴驚人",
+    "pinyin": [
+      "yī",
+      "míng",
+      "jīng",
+      "rén"
+    ],
+    "gloss": [
+      "one",
+      "cry",
+      "startles",
+      "all"
+    ],
+    "meaning": "A long silence, then a result nobody can ignore.",
+    "exampleZh": "他安静做了两年，这次比赛一鸣惊人，拿了第一。",
+    "exampleEn": "He worked quietly for two years. This race was the one cry. He finished first.",
+    "story": "King Zhuang of Chu stayed quiet for three years, then told his ministers the bird that cries once means to startle everyone."
+  },
+  {
+    "id": "旗开得胜",
+    "simplified": "旗开得胜",
+    "traditional": "旗開得勝",
+    "pinyin": [
+      "qí",
+      "kāi",
+      "dé",
+      "shèng"
+    ],
+    "gloss": [
+      "flag",
+      "opens",
+      "takes",
+      "the win"
+    ],
+    "meaning": "Winning the first engagement.",
+    "exampleZh": "联赛首场他们旗开得胜，主场零封。",
+    "exampleEn": "The first match of the league opened with the flag. They kept a clean sheet at home.",
+    "story": "As the flag opens, the win is already there. People use it for a good start."
+  },
+  {
+    "id": "出类拔萃",
+    "simplified": "出类拔萃",
+    "traditional": "出類拔萃",
+    "pinyin": [
+      "chū",
+      "lèi",
+      "bá",
+      "cuì"
+    ],
+    "gloss": [
+      "rise",
+      "above",
+      "the",
+      "crowd"
+    ],
+    "meaning": "Clearly past the level of the group around you.",
+    "exampleZh": "这批简历里她出类拔萃，作品集比别人多一个完整项目。",
+    "exampleEn": "In that pile she stood out of the crowd. Her portfolio had one finished project more than the rest.",
+    "story": "Mencius uses the phrase for someone who rises out of the kind of people around them."
+  },
+  {
+    "id": "鹤立鸡群",
+    "simplified": "鹤立鸡群",
+    "traditional": "鶴立雞群",
+    "pinyin": [
+      "hè",
+      "lì",
+      "jī",
+      "qún"
+    ],
+    "gloss": [
+      "crane",
+      "stands",
+      "among",
+      "chickens"
+    ],
+    "meaning": "Easy to pick out because everyone nearby is ordinary by comparison.",
+    "exampleZh": "制服队列里他鹤立鸡群，袖口还别着一枚旧校徽。",
+    "exampleEn": "In the row of uniforms he was a crane among chickens, an old school badge still on the cuff.",
+    "story": "Ji Shao stood in a company of men like a wild crane among chickens. The line is from A New Account of Tales of the World."
+  },
+  {
+    "id": "如鱼得水",
+    "simplified": "如鱼得水",
+    "traditional": "如魚得水",
+    "pinyin": [
+      "rú",
+      "yú",
+      "dé",
+      "shuǐ"
+    ],
+    "gloss": [
+      "as",
+      "a fish",
+      "gets",
+      "water"
+    ],
+    "meaning": "In the exact place, with the exact people, where your work starts to move.",
+    "exampleZh": "调到设计组之后她如鱼得水，方案一次比一次快。",
+    "exampleEn": "After the move to the design group she was a fish in water. Each draft came faster.",
+    "story": "Liu Bei said that with Kongming he was like a fish that had found water."
+  },
+  {
+    "id": "才高八斗",
+    "simplified": "才高八斗",
+    "traditional": "才高八斗",
+    "pinyin": [
+      "cái",
+      "gāo",
+      "bā",
+      "dǒu"
+    ],
+    "gloss": [
+      "talent",
+      "of",
+      "eight",
+      "dou"
+    ],
+    "meaning": "A gift for writing so large that other people are splitting what remains.",
+    "exampleZh": "那封推荐信才高八斗，读的人会记住句子。",
+    "exampleEn": "The recommendation letter had eight dou of talent. Readers remembered the sentences.",
+    "story": "Xie Lingyun said talent in the world was one shi, Cao Zhi held eight dou, and he himself plus everyone else shared the rest."
+  },
+  {
+    "id": "学富五车",
+    "simplified": "学富五车",
+    "traditional": "學富五車",
+    "pinyin": [
+      "xué",
+      "fù",
+      "wǔ",
+      "chē"
+    ],
+    "gloss": [
+      "learning",
+      "fills",
+      "five",
+      "carts"
+    ],
+    "meaning": "Having read so much the books would load several carts.",
+    "exampleZh": "问到典故他学富五车，随口就能说出出处。",
+    "exampleEn": "Ask him for a source and the five carts are there. He names the book without looking.",
+    "story": "Zhuangzi says Hui Shi's writings would fill five carts. Later ages used the line for deep reading."
+  },
+  {
+    "id": "开卷有益",
+    "simplified": "开卷有益",
+    "traditional": "開卷有益",
+    "pinyin": [
+      "kāi",
+      "juàn",
+      "yǒu",
+      "yì"
+    ],
+    "gloss": [
+      "open",
+      "a book",
+      "and",
+      "gain"
+    ],
+    "meaning": "Reading almost anything beats not opening it.",
+    "exampleZh": "他通勤只带一本旧杂志，也算开卷有益。",
+    "exampleEn": "He carried one old magazine on the commute. Opening it was still a gain.",
+    "story": "Song Taizong kept the imperial reader at hand and told his ministers that opening a volume brought a gain."
+  },
+  {
+    "id": "温故知新",
+    "simplified": "温故知新",
+    "traditional": "溫故知新",
+    "pinyin": [
+      "wēn",
+      "gù",
+      "zhī",
+      "xīn"
+    ],
+    "gloss": [
+      "review",
+      "the old",
+      "know",
+      "the new"
+    ],
+    "meaning": "Looking again at what you learned and finding something you missed.",
+    "exampleZh": "备考时她温故知新，旧错题里看出了新的规律。",
+    "exampleEn": "Reviewing for the exam, she found a new pattern in the old wrong answers.",
+    "story": "The Analects say: review the old and from it know the new. Then you can be a teacher."
+  },
+  {
+    "id": "对症下药",
+    "simplified": "对症下药",
+    "traditional": "對症下藥",
+    "pinyin": [
+      "duì",
+      "zhèng",
+      "xià",
+      "yào"
+    ],
+    "gloss": [
+      "match",
+      "the illness",
+      "give",
+      "the drug"
+    ],
+    "meaning": "A fix aimed at the actual problem, not at a problem nearby.",
+    "exampleZh": "页面慢是图片太大，对症下药，先压图，别先改服务器。",
+    "exampleEn": "The page was slow because the images were large. The right drug was to compress them, not to resize the server.",
+    "story": "Prescribe for the illness in front of you."
+  },
+  {
+    "id": "见义勇为",
+    "simplified": "见义勇为",
+    "traditional": "見義勇為",
+    "pinyin": [
+      "jiàn",
+      "yì",
+      "yǒng",
+      "wéi"
+    ],
+    "gloss": [
+      "see",
+      "what is right",
+      "and",
+      "act"
+    ],
+    "meaning": "Stepping in when you see a wrong you could interrupt.",
+    "exampleZh": "地铁上有人被抢，他见义勇为，拉住了背包带。",
+    "exampleEn": "On the train someone grabbed a bag. He saw what was right and caught the strap.",
+    "story": "The Analects praise seeing what is right and doing it. Later use stresses the courage of stepping in."
+  },
+  {
+    "id": "同甘共苦",
+    "simplified": "同甘共苦",
+    "traditional": "同甘共苦",
+    "pinyin": [
+      "tóng",
+      "gān",
+      "gòng",
+      "kǔ"
+    ],
+    "gloss": [
+      "share",
+      "the sweet",
+      "share",
+      "the bitter"
+    ],
+    "meaning": "Staying for the hard stretch, not only the reward.",
+    "exampleZh": "合伙这两年他们同甘共苦，亏的月份也照样见面。",
+    "exampleEn": "For two years of the partnership they shared the bitter months and still met.",
+    "story": "Sweet and bitter, taken from the same pot."
+  },
+  {
+    "id": "一言九鼎",
+    "simplified": "一言九鼎",
+    "traditional": "一言九鼎",
+    "pinyin": [
+      "yī",
+      "yán",
+      "jiǔ",
+      "dǐng"
+    ],
+    "gloss": [
+      "one",
+      "word",
+      "nine",
+      "tripods"
+    ],
+    "meaning": "A statement heavy enough that other people arrange themselves around it.",
+    "exampleZh": "老师傅一言九鼎，他说能修，客户就把机器留下了。",
+    "exampleEn": "The old craftsman's word weighed nine tripods. He said he could repair it, and the customer left the machine.",
+    "story": "Nine tripods were the heavy vessels of a state. One word with that weight settles a matter."
+  },
+  {
+    "id": "悬崖勒马",
+    "simplified": "悬崖勒马",
+    "traditional": "懸崖勒馬",
+    "pinyin": [
+      "xuán",
+      "yá",
+      "lè",
+      "mǎ"
+    ],
+    "gloss": [
+      "at the cliff",
+      "rein",
+      "in",
+      "the horse"
+    ],
+    "meaning": "Stopping a course at the last moment it can still be stopped.",
+    "exampleZh": "他差点签下那份合同，悬崖勒马，律师指出了违约金。",
+    "exampleEn": "He nearly signed. At the cliff he pulled the reins: the lawyer had found the penalty clause.",
+    "story": "The horse is at the edge. Reining in now is the whole of the rescue."
+  },
+  {
+    "id": "举一反三",
+    "simplified": "举一反三",
+    "traditional": "舉一反三",
+    "pinyin": [
+      "jǔ",
+      "yī",
+      "fǎn",
+      "sān"
+    ],
+    "gloss": [
+      "raise",
+      "one",
+      "infer",
+      "three"
+    ],
+    "meaning": "Learning the pattern, not only the example.",
+    "exampleZh": "教过一次透视，她举一反三，另外两题自己做出来了。",
+    "exampleEn": "Shown one perspective problem, she inferred the other two and finished them alone.",
+    "story": "The Analects: if I raise one corner and you do not return with the other three, I do not go on."
+  },
+  {
+    "id": "不耻下问",
+    "simplified": "不耻下问",
+    "traditional": "不恥下問",
+    "pinyin": [
+      "bù",
+      "chǐ",
+      "xià",
+      "wèn"
+    ],
+    "gloss": [
+      "not",
+      "ashamed",
+      "to ask",
+      "downward"
+    ],
+    "meaning": "Asking someone junior or less expert, without treating the question as a loss.",
+    "exampleZh": "主任不耻下问，跑来问实习生这个快捷键。",
+    "exampleEn": "The director was not ashamed to ask downward. She came over for the shortcut.",
+    "story": "Confucius praises not being ashamed to ask those who are, in rank or fame, below you."
+  },
+  {
+    "id": "精益求精",
+    "simplified": "精益求精",
+    "traditional": "精益求精",
+    "pinyin": [
+      "jīng",
+      "yì",
+      "qiú",
+      "jīng"
+    ],
+    "gloss": [
+      "fine",
+      "still more",
+      "seek",
+      "fine"
+    ],
+    "meaning": "Refusing to stop at good enough when the work can still be truer.",
+    "exampleZh": "样品客户已经点头，他精益求精，又改了一遍缝线。",
+    "exampleEn": "The client had already nodded. He sought finer still and resewed the seam.",
+    "story": "Fine, and then finer. The work is not defended as finished."
+  },
+  {
+    "id": "实事求是",
+    "simplified": "实事求是",
+    "traditional": "實事求是",
+    "pinyin": [
+      "shí",
+      "shì",
+      "qiú",
+      "shì"
+    ],
+    "gloss": [
+      "from",
+      "facts",
+      "seek",
+      "what is"
+    ],
+    "meaning": "Letting the measured facts decide, not the preferred story.",
+    "exampleZh": "延期的原因她实事求是，把等待配件的天数写进了报告。",
+    "exampleEn": "She sought the facts: the report named the days spent waiting for the part.",
+    "story": "The phrase asks you to seek what is so from the things that are so."
+  },
+  {
+    "id": "雪上加霜",
+    "simplified": "雪上加霜",
+    "traditional": "雪上加霜",
+    "pinyin": [
+      "xuě",
+      "shàng",
+      "jiā",
+      "shuāng"
+    ],
+    "gloss": [
+      "on",
+      "snow",
+      "add",
+      "frost"
+    ],
+    "meaning": "A second blow landing on top of the first.",
+    "exampleZh": "车抛锚了，雪上加霜，手机也没电。",
+    "exampleEn": "The car died. Frost on the snow: the phone was dead too.",
+    "story": "Snow is already there. Frost is the next layer."
+  }
+]
