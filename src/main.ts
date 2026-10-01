@@ -56,6 +56,9 @@ function mast(parts: DayParts): HTMLElement {
   return header;
 }
 
+function reading(item: Chengyu): HTMLElement {
+  return el('p', 'reading', item.pinyin.join(' '));
+}
 function hero(item: Chengyu): HTMLHeadingElement {
   const title = el('h1', 'hero', glyphs(item, script));
   title.lang = script === 'traditional' ? 'zh-Hant' : 'zh-Hans';
@@ -112,10 +115,10 @@ function render(tear = false): void {
     const tearButton = el('button', 'tear-hit');
     tearButton.type = 'button';
     tearButton.dataset.action = 'open';
-    tearButton.append(hero(item), cells(item), el('p', 'hint', '轻触撕开'));
+    tearButton.append(hero(item), reading(item), cells(item), el('p', 'hint', '轻触撕开'));
     frame.append(tearButton);
   } else {
-    frame.append(hero(item), lesson(item));
+    frame.append(hero(item), reading(item), lesson(item));
     const back = el('button', 'back', '回到今日');
     back.type = 'button';
     back.dataset.action = 'back';
