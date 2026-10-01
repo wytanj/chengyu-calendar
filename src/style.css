@@ -116,6 +116,26 @@ body {
   line-height: 0.9;
 }
 
+
+.hear {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  border: 1px solid var(--ink);
+  background: transparent;
+  color: var(--ink);
+  font-family: var(--song);
+  font-size: 15px;
+  line-height: 1;
+  padding: 4px 8px;
+  cursor: pointer;
+  z-index: 2;
+}
+
+.hear:active {
+  background: rgba(154, 46, 40, 0.08);
+}
+
 .script {
   position: absolute;
   top: 8px;

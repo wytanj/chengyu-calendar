@@ -38,6 +38,63 @@ function dayNow() {
   return resolveDay(new URLSearchParams(location.search).get('day'), new Date());
 }
 
+
+function pickZhVoice(): SpeechSynthesisVoice | null {
+  if (!("speechSynthesis" in window)) return null;
+  const voices = speechSynthesis.getVoices();
+  return (
+    voices.find((v) => v.lang.toLowerCase() === "zh-cn") ??
+    voices.find((v) => v.lang.toLowerCase().startsWith("zh")) ??
+    null
+  );
+}
+
+function speakText(text: string, lang: string): Promise<void> {
+  return new Promise((resolve, reject) => {
+    if (!("speechSynthesis" in window)) {
+      reject(new Error("speechSynthesis unavailable"));
+      return;
+    }
+    const utter = new SpeechSynthesisUtterance(text);
+    utter.lang = lang;
+    utter.rate = 0.9;
+    const voice = pickZhVoice();
+    if (voice) utter.voice = voice;
+    utter.onend = () => resolve();
+    utter.onerror = () => reject(new Error("speech failed"));
+    speechSynthesis.speak(utter);
+  });
+}
+
+async function hearItem(item: Chengyu): Promise<void> {
+  if (!("speechSynthesis" in window)) return;
+  speechSynthesis.cancel();
+  speechSynthesis.getVoices();
+  const lang = script === "traditional" ? "zh-TW" : "zh-CN";
+  const chars = glyphs(item, script);
+  try {
+    await speakText(chars, lang);
+    if (screen === "detail") {
+      const exampleZh =
+        script === "traditional"
+          ? item.exampleZh.replaceAll(item.simplified, item.traditional)
+          : item.exampleZh;
+      await speakText(exampleZh, lang);
+    }
+  } catch {
+    // Device may lack a Chinese voice; fail quietly.
+  }
+}
+
+function hearButton(): HTMLButtonElement {
+  const button = el("button", "hear", "听");
+  button.type = "button";
+  button.dataset.action = "hear";
+  button.setAttribute("aria-label", "Play pronunciation");
+  button.title = "Hear pronunciation";
+  return button;
+}
+
 function scriptButton(): HTMLButtonElement {
   const button = el('button', 'script', script === 'simplified' ? '繁' : '简');
   button.type = 'button';
@@ -109,7 +166,7 @@ function render(tear = false): void {
   const pad = el('div', 'pad');
   const sheet = el('article', `sheet${screen === 'detail' ? ' is-detail' : ''}${tear ? ' tear' : ''}`);
   const frame = el('div', 'frame');
-  frame.append(mast(parts), scriptButton());
+  frame.append(mast(parts), scriptButton(), hearButton());
 
   if (screen === 'card') {
     const tearButton = el('button', 'tear-hit');
@@ -169,7 +226,12 @@ app.addEventListener('click', (event) => {
   if (!(target instanceof Element)) return;
   const action = target.closest<HTMLElement>('[data-action]')?.dataset.action;
   if (action === 'script') toggleScript();
-  else if (action === 'open') openDetail();
+  else if (action === 'hear') {
+    event.preventDefault();
+    event.stopPropagation();
+    const item = pickChengyu(pack, dayNow());
+    void hearItem(item);
+  } else if (action === 'open') openDetail();
   else if (action === 'back') closeDetail();
 });
 
@@ -183,6 +245,12 @@ window.addEventListener('popstate', () => {
 });
 
 history.replaceState({ screen }, '', location.href);
+if ('speechSynthesis' in window) {
+  speechSynthesis.getVoices();
+  window.speechSynthesis.addEventListener('voiceschanged', () => {
+    speechSynthesis.getVoices();
+  });
+}
 render();
 
 if (import.meta.env.PROD && 'serviceWorker' in navigator) {
